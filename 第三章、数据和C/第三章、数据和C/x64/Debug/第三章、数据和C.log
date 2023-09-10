@@ -1,0 +1,5 @@
+﻿  3.1示例程序.cpp
+C:\Users\39471\source\repos\第三章、数据和C\第三章、数据和C\3.1示例程序.cpp(10,19): warning C4307: “+”: 有符号整型常量溢出
+C:\Users\39471\source\repos\第三章、数据和C\第三章、数据和C\3.1示例程序.cpp(11,16): warning C4056: 浮点常量算术溢出
+C:\Users\39471\source\repos\第三章、数据和C\第三章、数据和C\3.1示例程序.cpp(12,13): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\39471\source\repos\第三章、数据和C\第三章、数据和C\3.1示例程序.cpp(15,18): error C2065: “INT_MAX”: 未声明的标识符
